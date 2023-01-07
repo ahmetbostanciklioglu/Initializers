@@ -23,7 +23,7 @@ initializerObject2.property = "Ali"
 
 struct InitializerStruct3 {
     var property1: String
-    var property2 = 0
+    var property2 = 0 // default value 
 }
 let initializerObject3 = InitializerStruct3(property1: "Alex")
 let initializerObject4 = InitializerStruct3(property1: "Ahmet", property2: 23)
