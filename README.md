@@ -2,7 +2,7 @@
 
 
 
-**Initializers**
+**Initializers:**
 ```
 struct InitializerStruct {
     var initializerProperty: String
